@@ -1,0 +1,31 @@
+{
+  "name": "authentication-system-passport-jwt",
+  "version": "1.0.0",
+  "description": "Learn passport-jwt for authentication system",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^2.0.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.0.15",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "passport",
+    "jsonwebtoken",
+    "passport-jwt",
+    "indraarianggi"
+  ],
+  "author": "Indra Arianggi",
+  "license": "ISC"
+}
